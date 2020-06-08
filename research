@@ -5,8 +5,22 @@ Research questions
 1) What is Elibri?
 2) Who does Elibri serve?
 3) What problems and issues does Elibri address?
-  * Parents are not involved enough
-  * Schools are overcrowded, decreasing
+  * parents are not involved enough
+  * schools are overcrowded, decreasing teacher/student attention
+  * teachers are less tech-savvy than most students
+  * TAG learning initiatives should be applied to all students
+  * school funds are stagnant
+  * teachers need to keep up with the every changing and diverse student body
+  * school-to-prison pipeline
+  * college prep and the gender gap
+  * high school dropouts
+  * cheating, especially with technology
+  * keep the students engaged in school year-round
+  * achievement gap between groups of students
+  * school safety
+  * students with disabilities need the same access as the rest of the student body
+  * bullying
+  * student poverty: hunger, abuse, low-income, mental health, physical health
 4) How does Elibri solve these issues?
 5) What is the MVP for Elibri?
 6) What tech is involved?
@@ -22,7 +36,29 @@ Research questions
 16) How is A/R handled?
 17) How does Elibri get configured and setup with an EIN and a corporation status?
 18) How would billing work?
-
+19) What are educational trends?
+  * move away from the traditional letter grade system
+    - teachers can customize their own grading system based more on qualitative descriptions
+  * focus on social and emotional development
+  * student-driven learning initiatives
+    - students make their own path based on interests
+    - collaboration between students, groups
+  * flipped learning
+    - students watch videos or relevant coursework prior to class
+  * gameification
+    - personal achievements
+    - visual progress
+    - awards, milestones, virtual trophies/badges, acknowledgement
+    - levels, proficiencies
+  * SEL: social-emotional learning
+    - focusing on the student from a holistic approach
+    - giving the student the ability to be recognized and the opportunity to make good decisions
+    - socializing in a safe environment
 * Business model
 
 * Technical approach
+
+
+References
+https://cepa.stanford.edu/educational-opportunity-monitoring-project/achievement-gaps/race/
+https://www.theedadvocate.org/how-cities-can-act-to-close-the-achievement-gap/
